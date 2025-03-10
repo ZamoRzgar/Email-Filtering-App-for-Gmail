@@ -1,0 +1,4 @@
+/.venv
+/Credentials.json
+/model_data
+/__pycache__
