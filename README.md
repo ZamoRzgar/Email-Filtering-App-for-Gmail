@@ -2,7 +2,7 @@
 
 An intelligent email filtering application that uses machine learning to automatically organize your Gmail inbox based on importance and content.
 
-![Gmail AI Filter Screenshot](screenshot.png)
+
 
 ## Features
 
